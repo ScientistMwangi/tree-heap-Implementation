@@ -1,0 +1,13 @@
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\bin\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.exe
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\bin\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.deps.json
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\bin\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.runtimeconfig.json
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\bin\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.runtimeconfig.dev.json
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\bin\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.dll
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\bin\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.pdb
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\obj\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.csprojAssemblyReference.cache
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\obj\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.AssemblyInfoInputs.cache
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\obj\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.AssemblyInfo.cs
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\obj\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.csproj.CoreCompileInputs.cache
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\obj\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.dll
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\obj\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.pdb
+C:\Users\The Scientist\source\repos\ExhaustiveMarchTreeProblems\ExhaustiveMarchTreeProblems\obj\Debug\netcoreapp3.1\ExhaustiveMarchTreeProblems.genruntimeconfig.cache
